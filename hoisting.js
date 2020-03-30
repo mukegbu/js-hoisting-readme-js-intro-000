@@ -9,11 +9,11 @@ return lyric;
 callMe();
 
 
-thisIsCrazy();
-function crazy() {
-var thisIsCrazy = function ()// fix the code in here:
-  console.log("hey!!!");
-}
+// thisIsCrazy();
+// function crazy() {
+// var thisIsCrazy = function ()// fix the code in here:
+//   console.log("hey!!!");
+// }
 
 
 function sayMyName() {
