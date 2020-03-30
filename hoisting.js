@@ -20,12 +20,12 @@ function crazy() {
 var name = "Cricky";
 function sayMyName() {
   console.log(name);
-  
+
   sayMy();
 
-  var name = "Kristin"; 
+  var name = "Kristin";
   function sayMy() {
     console.log(name);
-    
+
   }
 }
