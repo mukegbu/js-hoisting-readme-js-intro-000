@@ -17,15 +17,15 @@ function crazy() {
   thisIsCrazy();
 }
 
-
+var name = "Cricky";
 function sayMyName() {
   console.log(name);
-  var name = "Cricky";
-
+  
   sayMy();
 
+  var name = "Kristin"; 
   function sayMy() {
     console.log(name);
-    var name = "Kristin";
+    
   }
 }
